@@ -1,6 +1,6 @@
 # COMP8006A2
-Standalone Linux Firewall
+## Standalone Linux Firewall & Packet Filter    
 
-Brij Shah
-
+Authors:  
+Brij Shah  
 Ramzi Chennafi
